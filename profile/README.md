@@ -125,5 +125,5 @@ https://youtu.be/X3rRgAyDOzs?si=fFtqrnmOvX_t8qZR
 
 [🖥️ Frontend](https://github.com/Tave-13th-Project-Team-4-Fiurinee/Frontend)  
 [🖥️ Backend](https://github.com/Tave-13th-Project-Team-4-Fiurinee/Server)  
-[🖥️ AI]()  
+[🖥️ AI](https://github.com/Tave-13th-Project-Team-4-Fiurinee/Model)  
 
