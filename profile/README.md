@@ -95,4 +95,24 @@ https://youtu.be/X3rRgAyDOzs?si=fFtqrnmOvX_t8qZR
 | <img src="https://github.com/Tave-13th-Project-Team-4-Fiurinee/.github/blob/main/profile/image/%EA%B8%B0%EB%85%90%EC%9D%BC1.png" width="340" height="150"> | <img src="https://github.com/Tave-13th-Project-Team-4-Fiurinee/.github/blob/main/profile/image/%EA%B8%B0%EB%85%90%EC%9D%BC.png" width="340" height="150"> | <img src="https://github.com/Tave-13th-Project-Team-4-Fiurinee/.github/blob/main/profile/image/%EA%B8%B0%EB%85%90%EC%9D%BC3.png" width="340" height="150"> |
 |:---:|:---:|:---:|
 | 이메일 알림 | 문자 알림 | 축하 페이지 |
+<br/>
 
+## 4️⃣ 개발 환경
+
+#### Web
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)&nbsp; ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) &nbsp;![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp; ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+#### Server
+![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp; ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp; ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) &nbsp;![amazon](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) &nbsp;![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) <br>
+![ECS](https://img.shields.io/badge/ECS-FF4500.svg?style=for-the-badge&logo=ECS&logoColor=white)&nbsp; ![ECR](https://img.shields.io/badge/ECR-F58025.svg?style=for-the-badge&logo=ECS&logoColor=white)&nbsp; ![GitAction](https://img.shields.io/badge/GitAction-000000.svg?style=for-the-badge&logo=ECS&logoColor=white)&nbsp; ![RDS](https://img.shields.io/badge/RDS-0058CC.svg?style=for-the-badge&logo=ECS&logoColor=white) &nbsp; ![S3](https://img.shields.io/badge/S3-BD081C.svg?style=for-the-badge&logo=ECS&logoColor=white)&nbsp; ![Route53](https://img.shields.io/badge/Route53-593D88.svg?style=for-the-badge&logo=ECS&logoColor=white) 
+
+
+#### AI
+
+![cloudwatch](https://img.shields.io/badge/Amazon%20CloudWatch-FF4F8B?style=for-the-badge&logo=Amazon%20CloudWatch&logoColor=white) &nbsp;![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+#### Etc.
+![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp; ![swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) <br>
+![intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp; ![visual studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp; ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) &nbsp;![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+<br>
