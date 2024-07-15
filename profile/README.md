@@ -11,5 +11,46 @@
 | 이준범 | 백지현 | 이시영 | 김문희 | 김민지 | 원종효 | 김혜원 |
 | PM, Backend | Backend | Frontend | Frontend | Data analysis | Data analysis | Data analysis |
 | [ss7622](https://github.com/ss7622) | [qormoon](https://github.com/qormoon) | [Yeong-si](https://github.com/Yeong-si) | [moon0727](https://github.com/moon0727) | [ggororok](https://github.com/ggororok) | [wonjonghyo](https://github.com/wonjonghyo) | [hxe0ne](https://github.com/hxe0ne) |
+<br/><br/>
 
+## **1️⃣ 프로젝트 설계 배경**
 
+다들 연인이나 친구, 가족에게 꽃을 선물해본 경험이 있지 않나요?
+
+저는 꽃을 선물할 때 꽃말을 검색해보고 꽃을 선물 했었는데요. 제가 전하고 싶은 메세지와 비슷한 의미를 지닌 꽃말을 찾으려면 검색도 너무 많이 해야하고 시간이 오래 걸린다는 단점이 있었습니다.
+
+이런 경험을 통해서  “내가 특정 상황이나 메세지를 입력하면 그와 비슷한 의미를 지닌 꽃말을 찾아주는 사이트가 있었으면 좋겠다 !”라고 생각했습니다.
+
+따라서 그에 맞는 **“맞춤형 꽃 추천 웹 사이트”**를 기획하게 되었습니다.
+
+<br>
+
+## 2️⃣ 리서치
+
+### ` 유저 리서치 `
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/e3d2974f-39f3-4afe-abdc-62734c3bfe82/ebe223ac-0da1-4ff9-9731-ce1aedd67115/Untitled.png)
+
+**❗ problem - 1. 지금 상황에 무슨 꽃을 선물할지 모르겠어요**
+
+어떤 꽃을 선물 해야할지 찾기 힘들다는 어려움을 겪는 수많은 사람들! 
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/e3d2974f-39f3-4afe-abdc-62734c3bfe82/c30c6f05-7dc0-4432-9b2d-fd65b8b41f3c/5a7107bf-e542-4254-a63b-cdced7ff4349.png)
+
+**❗ problem - 2. 요즘 시기에 어떤 꽃이 피나요?**
+
+요즘 시기에 어떤 꽃이 피는지 궁금해하는 사람들!
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/e3d2974f-39f3-4afe-abdc-62734c3bfe82/7b4d5070-4704-4c77-9ba3-9125d7230297/Untitled.png)
+
+**❗ problem - 3. 내 주변 꽃집을 알고 싶어요!**
+
+주변에 어떤 꽃집들이 있는지 알고싶어하는 사람들!  
+
+**🤔 결론**
+
+1. **현재 상황에 선물하기 좋은 꽃을 추천해주는 기능을 넣자 !**
+2. **꽃의 개화시기, 설명을 보여줄 수 있는 기능을 넣자 !**
+3. **사용자 근처의 꽃집을 알려주는 기능을 넣자 !**
+
+<br>
