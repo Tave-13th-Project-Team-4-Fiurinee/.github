@@ -6,9 +6,10 @@
 
 ## 😋 멤버 구성
 
-| ![이준범](image/이준범.png)  | ![백지현](image/백지현.png)|![이시영](https://item.kakaocdn.net/do/296cc3e891afb5542018b43229eb30ccac8e738cb631e72fdb9a96b36413984e)| ![김문희](https://item.kakaocdn.net/do/296cc3e891afb5542018b43229eb30ccac8e738cb631e72fdb9a96b36413984e)  | ![김민지](image/김민지.png)   |  ![원종효](image/원종효.png) |  ![김혜원](image/김혜원.png) |
+| ![이준범](image/이준범.png)  | ![백지현](image/백지현.png) | <img src="https://item.kakaocdn.net/do/296cc3e891afb5542018b43229eb30ccac8e738cb631e72fdb9a96b36413984e" alt="이시영" width="150" height="150"> | <img src="https://item.kakaocdn.net/do/296cc3e891afb5542018b43229eb30ccac8e738cb631e72fdb9a96b36413984e" alt="김문희" width="150" height="150"> | ![김민지](image/김민지.png) | ![원종효](image/원종효.png) | ![김혜원](image/김혜원.png) |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 이준범  |  백지현  | 이시영   | 김문희  | 김민지   | 원종효  | 김혜원  |
-| PM, Backend   |  Backend  |  Frontend | Frontend  | Data analysis  | Data analysis  | Data analysis  |
-| [ss7622](https://github.com/ss7622)  | [qormoon](https://github.com/qormoon)  | [Yeong-si](https://github.com/Yeong-si)  |  [moon0727](https://github.com/moon0727) | [ggororok](https://github.com/ggororok)  | [wonjonghyo](https://github.com/wonjonghyo)  | [hxe0ne](https://github.com/hxe0ne)  |
+| 이준범 | 백지현 | 이시영 | 김문희 | 김민지 | 원종효 | 김혜원 |
+| PM, Backend | Backend | Frontend | Frontend | Data analysis | Data analysis | Data analysis |
+| [ss7622](https://github.com/ss7622) | [qormoon](https://github.com/qormoon) | [Yeong-si](https://github.com/Yeong-si) | [moon0727](https://github.com/moon0727) | [ggororok](https://github.com/ggororok) | [wonjonghyo](https://github.com/wonjonghyo) | [hxe0ne](https://github.com/hxe0ne) |
+
 
