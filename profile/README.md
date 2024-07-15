@@ -123,7 +123,7 @@ https://youtu.be/X3rRgAyDOzs?si=fFtqrnmOvX_t8qZR
 
 ## 5️⃣ 파트 별 소개
 
-[🖥️ Frontend]()  
-[🖥️ Backend]()  
+[🖥️ Frontend](https://github.com/Tave-13th-Project-Team-4-Fiurinee/Frontend)  
+[🖥️ Backend](https://github.com/Tave-13th-Project-Team-4-Fiurinee/Server)  
 [🖥️ AI]()  
 
