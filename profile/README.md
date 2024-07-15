@@ -92,7 +92,7 @@ https://youtu.be/X3rRgAyDOzs?si=fFtqrnmOvX_t8qZR
 마이페이지에서 기념일을 설정하시면,
 기념일 3일 전과 기념일 당일 다음과 같은 알림을 받아보실 수 있습니다 !
 
-| <img src="https://github.com/Tave-13th-Project-Team-4-Fiurinee/.github/blob/main/profile/image/%EA%B8%B0%EB%85%90%EC%9D%BC1.png" width="300" height="150"> | <img src="https://github.com/Tave-13th-Project-Team-4-Fiurinee/.github/blob/main/profile/image/%EA%B8%B0%EB%85%90%EC%9D%BC.png" width="300" height="150"> | <img src="https://github.com/Tave-13th-Project-Team-4-Fiurinee/.github/blob/main/profile/image/%EA%B8%B0%EB%85%90%EC%9D%BC3.png" width="300" height="150"> |
+| <img src="https://github.com/Tave-13th-Project-Team-4-Fiurinee/.github/blob/main/profile/image/%EA%B8%B0%EB%85%90%EC%9D%BC1.png" width="320" height="150"> | <img src="https://github.com/Tave-13th-Project-Team-4-Fiurinee/.github/blob/main/profile/image/%EA%B8%B0%EB%85%90%EC%9D%BC.png" width="320" height="150"> | <img src="https://github.com/Tave-13th-Project-Team-4-Fiurinee/.github/blob/main/profile/image/%EA%B8%B0%EB%85%90%EC%9D%BC3.png" width="320" height="150"> |
 |:---:|:---:|:---:|
 | 이메일 알림 | 문자 알림 | 축하 페이지 |
 
