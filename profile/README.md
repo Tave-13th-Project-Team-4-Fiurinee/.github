@@ -4,6 +4,9 @@
 ![피우리니 홈페이지)](image/fiurinee.png)
 <br/><br/>
 
+(🌸 피우리니 바로가기)[https://fiurinee.site/]
+<br/>
+
 ## 😋 멤버 구성
 
 | <img src="https://github.com/Tave-13th-Project-Team-4-Fiurinee/.github/blob/main/profile/image/%EC%9D%B4%EC%A4%80%EB%B2%94.jpg" alt="이준범" width="150" height="150">  | ![백지현](image/백지현.png) | <img src="https://item.kakaocdn.net/do/296cc3e891afb5542018b43229eb30ccac8e738cb631e72fdb9a96b36413984e" alt="이시영" width="150" height="150"> | <img src="https://item.kakaocdn.net/do/296cc3e891afb5542018b43229eb30ccac8e738cb631e72fdb9a96b36413984e" alt="김문희" width="150" height="150"> | ![김민지](image/김민지.png) | ![원종효](image/원종효.png) | ![김혜원](image/김혜원.png) |
