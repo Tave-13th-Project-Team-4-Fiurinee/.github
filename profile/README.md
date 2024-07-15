@@ -27,7 +27,7 @@
 
 ### ` 유저 리서치 `
 
-![1](image/problem1.png)
+![1](image/probelm1.png)
 
 **❗ problem - 1. 지금 상황에 무슨 꽃을 선물할지 모르겠어요**
 
