@@ -120,3 +120,10 @@ https://youtu.be/X3rRgAyDOzs?si=fFtqrnmOvX_t8qZR
 ![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 <br>
+
+## 5️⃣ 파트 별 소개
+
+[🖥️ Frontend]()  
+[🖥️ Backend]()  
+[🖥️ AI]()  
+
