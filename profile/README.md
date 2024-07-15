@@ -13,7 +13,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 이준범 | 백지현 | 이시영 | 김문희 | 김민지 | 원종효 | 김혜원 |
 | PM, Backend | Backend | Frontend | Frontend | Data analysis | Data analysis | Data analysis |
-| [ss7622](https://github.com/ss7622) | [qormoon](https://github.com/qormoon) | [Yeong-si](https://github.com/Yeong-si) | [moon0727](https://github.com/moon0727) | [ggororok](https://github.com/ggororok) | [wonjonghyo](https://github.com/wonjonghyo) | [hxe0ne](https://github.com/user-attachments/assets/e30a7fea-26a0-4b2b-bbef-6706085fb2b7) |
+| [ss7622](https://github.com/ss7622) | [qormoon](https://github.com/qormoon) | [Yeong-si](https://github.com/Yeong-si) | [moon0727](https://github.com/moon0727) | [ggororok](https://github.com/ggororok) | [wonjonghyo](https://github.com/wonjonghyo) | [hxe0ne]([https://github.com/user-attachments/assets/e30a7fea-26a0-4b2b-bbef-6706085fb2b7](https://github-production-user-asset-6210df.s3.amazonaws.com/149558683/348723606-e30a7fea-26a0-4b2b-bbef-6706085fb2b7.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240715%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240715T133634Z&X-Amz-Expires=300&X-Amz-Signature=01bfef3a444351e9ab472de7fdf092a89907f138e968aa95f550d7ac39b46774&X-Amz-SignedHeaders=host&actor_id=149558683&key_id=0&repo_id=722891799)) |
 
 <br/>
 
