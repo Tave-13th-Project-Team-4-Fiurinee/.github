@@ -88,3 +88,12 @@ https://youtu.be/xuO8Rqo8qkc?si=i5pe-CxQdkBjNdnV
 👇👇👇
 
 https://youtu.be/X3rRgAyDOzs?si=fFtqrnmOvX_t8qZR
+
+마이페이지에서 기념일을 설정하시면,
+기념일 3일 전과 기념일 당일 다음과 같은 알림을 받아보실 수 있습니다 !
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/e3d2974f-39f3-4afe-abdc-62734c3bfe82/086a6c3e-a550-48a2-8a75-ff4dfc869e36/Untitled.png)
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/e3d2974f-39f3-4afe-abdc-62734c3bfe82/45c591c6-8dc7-4642-b18d-0e94c465cb1d/c6dd6a9a-487e-4007-9a43-57ad70c18e76.png)
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/e3d2974f-39f3-4afe-abdc-62734c3bfe82/a5677309-0d14-4cd0-b915-9b9a961ae6a0/Untitled.png)
