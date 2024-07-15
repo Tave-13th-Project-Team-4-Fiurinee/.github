@@ -12,7 +12,7 @@
 | PM, Backend | Backend | Frontend | Frontend | Data analysis | Data analysis | Data analysis |
 | [ss7622](https://github.com/ss7622) | [qormoon](https://github.com/qormoon) | [Yeong-si](https://github.com/Yeong-si) | [moon0727](https://github.com/moon0727) | [ggororok](https://github.com/ggororok) | [wonjonghyo](https://github.com/wonjonghyo) | [hxe0ne](https://github.com/hxe0ne) |
 <br/><br/>
-
+<br/>
 ## **1️⃣ 프로젝트 설계 배경**
 
 다들 연인이나 친구, 가족에게 꽃을 선물해본 경험이 있지 않나요?
