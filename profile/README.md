@@ -4,7 +4,7 @@
 ![피우리니 홈페이지)](image/fiurinee.png)
 <br/>
 
-[🌸 피우리니 바로가기](https://fiurinee.site/)
+[🌸 피우리니 바로가기](https://fiurinee.site/)  
 [📘 피우리니 노션 바로가기](https://www.notion.so/TAVE-13-Team-Project-187f9566c5d24df99f9f25862a26fde0)
 <br/><br/>
 
